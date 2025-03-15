@@ -14,7 +14,7 @@
 
 - ✨ Passionate about Data Science, Machine Learning, and Data Visualization
 - 💻 Experienced in Python, SQL, and Web Development
-- 📌 I’m currently open for an intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1mM8HEhGtpCTU5vJfzYm48E_Z14JmwGct/view?usp=sharing)
+- 📌 I’m currently open for an intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1HTF5sDfc9aZ9sX0pDj9aXm_T_rdWJJKI/view?usp=sharing)
 - ✅ Open to new opportunities and freelance projects
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="35%">
