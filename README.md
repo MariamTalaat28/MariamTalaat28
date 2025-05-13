@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Scientist;Machine+Learning+Enthusiast;Web+Developer;Loves+to+analyze+and+visualize+data;Data+Speaks,+I+Listen.+Insights+Delivered.">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Scientist;Web+Developer;Loves+to+analyze+and+visualize+data;Data+Speaks,+I+Listen.+Insights+Delivered.">
   </a>
 </p>
 
@@ -14,7 +14,7 @@
 
 - ✨ Passionate about Data Science, Machine Learning, and Data Visualization
 - 💻 Experienced in Python, SQL, and Web Development
-- 📌 I’m currently open for an intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1HTF5sDfc9aZ9sX0pDj9aXm_T_rdWJJKI/view?usp=sharing)
+- 📌 I’m currently open for an intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1YU2U8Exlm-xl9Rl2cTh7iFb8572vEluB/view?usp=sharing)
 - ✅ Open to new opportunities and freelance projects
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="35%">
